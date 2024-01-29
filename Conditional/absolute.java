@@ -11,6 +11,8 @@ public class absolute {
             System.out.println(n);
         }
 
+        sc.close();
+
     }
 }
 //absolute means mod of that number that means always in positive value
