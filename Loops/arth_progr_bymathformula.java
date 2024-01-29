@@ -12,5 +12,6 @@ public class arth_progr_bymathformula {
         for(int i=1;i<=2*n-1 ;i+=2){
             System.out.println(i);
         }
+        sc.close();
     }
 }

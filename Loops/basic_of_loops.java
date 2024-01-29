@@ -10,5 +10,6 @@ public class basic_of_loops {
        for(int  i=1;i<=n;i++){
            System.out.println("Hello world");
        }
+       sc.close();
     }
 }

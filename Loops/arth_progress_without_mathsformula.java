@@ -13,5 +13,6 @@ public class arth_progress_without_mathsformula {
             System.out.println(a);
             a+=3;
         }
+        sc.close();
     }
 }
