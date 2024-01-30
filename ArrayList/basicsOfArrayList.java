@@ -12,7 +12,7 @@ public class basicsOfArrayList {
         al.add(2, 30);
         al.add(3, 40);
         al.add(4, 50);
-
+//heyyy
 
         System.out.println(al.get(0));
         System.out.println(al.get(1));
