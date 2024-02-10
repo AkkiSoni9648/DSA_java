@@ -36,6 +36,6 @@ public class basicsOfArrayList {
         for (int i = 0; i<al.size(); i++) {
             System.out.println(al.get(i));
         }
-
+//hii
     }
 }
