@@ -16,6 +16,6 @@ public class roll_number {
             }
             System.out.println();
         }
-
+sc.close();
     }
 }
