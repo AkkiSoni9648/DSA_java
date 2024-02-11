@@ -8,5 +8,6 @@ public class Divisible_by3or5 {
         if (a % 5 == 0 || a % 3 == 0)
             System.out.println("Divisible by 5 or 3 both ");
         else System.out.println("Not Divisible by 3 or 5");
+        sc.close();
     }
 }
