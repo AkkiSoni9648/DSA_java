@@ -2,6 +2,7 @@ package basicSorting;
 
 public class check_issortedornot {
     public static void main(String[] args) {
+        //sorting means arraning the data into decreasing or increasing order
         int[]a={1,3,2,5,8,9};
         int n=a.length;
         boolean flag=true;//true mans sorted
