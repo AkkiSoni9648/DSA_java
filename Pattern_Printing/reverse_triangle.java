@@ -12,7 +12,7 @@ public class reverse_triangle {
                 System.out.print(j+" ");
             }
             System.out.println();
-
+sc.close();
         }
     }
 }
