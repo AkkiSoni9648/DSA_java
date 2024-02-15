@@ -14,5 +14,6 @@ public class num_square {
             System.out.println();
 
         }
+        sc.close();
     }
 }
