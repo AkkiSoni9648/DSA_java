@@ -11,6 +11,7 @@ public class num_square {
             for (int j = 1; j <=a; j++) {
                 System.out.print(j+" ");
             }
+//hiiii
             System.out.println();
 
         }
