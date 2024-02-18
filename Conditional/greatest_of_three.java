@@ -14,6 +14,7 @@ public class greatest_of_three {
     if (a>=b && a>=c) System.out.println(a+" is greatest");
     else if (b>=c && b>=a) System.out.println(b+" is greatest");
     else System.out.println(c+" is greatest");
+    sc.close();
     }
 
 }
