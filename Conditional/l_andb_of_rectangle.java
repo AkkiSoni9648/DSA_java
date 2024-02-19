@@ -15,6 +15,6 @@ public class l_andb_of_rectangle {
         }else{
             System.out.println(" Area is Less than its perimeter");
         }
-
+sc.close();
     }
 }
