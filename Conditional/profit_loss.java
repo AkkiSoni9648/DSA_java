@@ -16,7 +16,7 @@ public class profit_loss {
             System.out.println(cp-sp);
         }
         if (sp==cp) System.out.println("No profit No loss");
-
+sc.close();
 
     }
 }
