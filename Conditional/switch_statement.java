@@ -17,6 +17,6 @@ public class switch_statement {
                 System.out.println(a*b);
                 break;
         }
-
+sc.close();
     }
 }
