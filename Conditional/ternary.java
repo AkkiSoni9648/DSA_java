@@ -9,5 +9,6 @@ public class ternary {
         int a= sc.nextInt();
         System.out.println((a%2==0)?"Even":"Odd");
         //condtion? if true :if false
+        sc.close();
     }
 }
