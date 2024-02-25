@@ -11,6 +11,7 @@ public class marks {
         else if (n>=61) System.out.println("good");
         else if (n>=41) System.out.println("average");
         else  System.out.println("fail39");
+        Sc.close();
 
     }
 }
