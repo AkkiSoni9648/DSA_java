@@ -14,6 +14,7 @@ public class alpha_square {
             System.out.println();
 
         }
+        sc.close();
     }
 }
 /*
