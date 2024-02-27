@@ -10,7 +10,8 @@ public class fivedigitnumber {
         if (n>=10000 && n<=99999)
             System.out.println("yes it is five digit number");
         else System.out.println("Not a five digit number ");
-        sc.close();
+        Sc.close();
     }
-}
+    }
+
 
