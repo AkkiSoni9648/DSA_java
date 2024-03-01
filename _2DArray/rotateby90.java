@@ -20,6 +20,7 @@ public class rotateby90 {
                 int te=arr[i][a];
                 arr[i][a]=arr[i][b];
                 arr[i][b]=te;
+              //hello
                 a++;
             }
         }
