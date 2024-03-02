@@ -8,7 +8,6 @@ public class Threedigitnumber {
         if (n>99 && n<1000)
             System.out.println("yes it is three digit number");
         else System.out.println("Not a three digit number ");
-        Sc.close();
-        
+        Sc.close();    
     }
 }
