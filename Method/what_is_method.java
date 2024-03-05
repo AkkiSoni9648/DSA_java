@@ -6,6 +6,8 @@ public class what_is_method {
        // name(parameter){
 //body of function
       // }
+      // unstructured -mini project
+      //structured -major project
     }
     
 }
