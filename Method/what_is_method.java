@@ -7,7 +7,7 @@ public class what_is_method {
 //body of function
       // }
       // unstructured -mini project
-      //structured -major project
+      //structured -major project(method)
     }
     
 }
