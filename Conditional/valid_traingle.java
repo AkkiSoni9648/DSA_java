@@ -14,5 +14,6 @@ public class valid_traingle {
         if(l1+l2>l3 && l2+l3>l1 && l3+l1>l2)
             System.out.println("Valid Traingle");
         else System.out.println("Not Valid");
+        sc.close();
     }
 }
