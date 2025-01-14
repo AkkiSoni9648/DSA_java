@@ -32,7 +32,7 @@ public class basicsOfArrayList {
         //To add any element in Al
         //Adding in Al is known as Push Back
         al.add(60);
-        System.out.println();
+        System.out.println(); 
         for (int i = 0; i<al.size(); i++) {
             System.out.println(al.get(i));
         }

@@ -6,6 +6,9 @@ import java.util.Arrays;
 public class copyofarray {
     public static void main(String[] args) {
         int a[] ={30,10,40,23,89,34};
+
+        //For each loop
+         
         for(int x:a){
             System.out.print(x+" ");
         }
@@ -13,7 +16,7 @@ public class copyofarray {
 
 
 
-        int []b=a;  //Shallow Copy
+         int []b=a;  //Shallow Copy
         for(int y:b){
             System.out.print(y+" ");
         }
