@@ -16,14 +16,14 @@ public class copyofarray {
 
 
 
-         int []b=a;  //Shallow Copy
+         int []b=a;  //Shallow Copy (it is only name of same array)
         for(int y:b){
             System.out.print(y+" ");
         }
         System.out.println();
 
 
-        //Deep Copy method 1
+        //Deep Copy method 1(copy of array)
         int [] c= Arrays.copyOf(a,a.length);
         for(int z:c){
             System.out.print(z+" ");
