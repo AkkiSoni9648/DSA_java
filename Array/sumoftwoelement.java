@@ -24,10 +24,12 @@ public class sumoftwoelement {
     }
 
     boolean get=false;
+    
     for (int i = 0; i < arr.length; i++) {
         for (int l = i+1; l <arr.length; l++) {
             if(arr[i]+arr[l]==target){
                 System.out.println("Elmente found: "+arr[i]+"+"+arr[l]+"="+target);
+                System.out.println(i+" "+l);
             get=true;
             }
         }
