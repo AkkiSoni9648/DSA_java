@@ -4,7 +4,7 @@ import java.util.*;
 
 public class primr_or_not {
 
-    public static boolean isprime(int n ){
+    public static boolean isPrime(int n ){
         if (n<=1)
         return false;
         for (int i = 2; i < n; i++) {
@@ -14,8 +14,9 @@ public class primr_or_not {
         return true;
     }
 public static void main(String[] args) {
-    System.out.println(isprime(10));
-    System.out.println(isprime(7));
+  //isPrime(10);
+    System.out.println(isPrime(7));
+    System.out.println(isPrime(10));
 }
 
 }
