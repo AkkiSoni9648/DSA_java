@@ -1,6 +1,6 @@
 package REcursion;
 
-public class fibo {
+public class fibo{
 
     public static int fib(int n) {
         if(n<2){
