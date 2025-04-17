@@ -11,9 +11,9 @@ public class indexof {
      //2 given string compare  lexographically  
         System.out.println();
 
-        String b="abc";
-        String c="dbc";
-        System.out.println(b.compareTo(c));
+        String str1="abc";
+        String str2="dbc";
+        System.out.println(str1.compareTo(str2));
 
         //97-100
     }
