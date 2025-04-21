@@ -15,6 +15,6 @@ public class inputstring {
                 t+=A.charAt(i);
             }
         }
-        System.out.println(t);
+         System.out.println(t);
     }
 }
